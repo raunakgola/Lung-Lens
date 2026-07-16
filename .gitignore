@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/venv/
+
+# Data & training artifacts
+radiography-dataset-covid/
+lightning_logs/
+*.ckpt
+*.zip
+kaggle.json
+
+# Model weights (.pt) are tracked with Git LFS — see .gitattributes
+
+# Frontend
+frontend/node_modules/
+frontend/dist/

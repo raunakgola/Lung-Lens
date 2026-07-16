@@ -1,0 +1,10 @@
+notebooks/
+backend/venv/
+results/
+frontend/node_modules/
+frontend/dist/
+**/__pycache__/
+**/lightning_logs/
+*.ipynb
+*.zip
+.git/

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img.png" alt="LungLens logo" width="250" />
+<img src="Lung_Lens.png" alt="LungLens logo" width="250" />
 
 # LungLens: chest X-ray classification with explainable AI
 
